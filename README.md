@@ -1,1 +1,1 @@
-![Project Image](Dashboard pic.png)
+![Project Image](Dashboard_pic.png)
