@@ -1,1 +1,1 @@
-![A description of the image](path/to/your/image.png)
+![A description of the image](Dashboard pic.png)
