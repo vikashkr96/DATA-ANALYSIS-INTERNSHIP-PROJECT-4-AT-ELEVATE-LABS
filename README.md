@@ -1,1 +1,1 @@
-![A description of the image](Dashboard pic.png)
+![Project Image](super_store_sales_dashboard.png)
